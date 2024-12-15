@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Send SMS App</string>
+    <string name="phone_hint">Enter phone numbers (comma separated)</string>
+    <string name="message_hint">Enter Message</string>
+    <string name="send_button">Send Message</string>
+    <string name="manage_messages">Manage Messages</string>
+    <string name="blocked_numbers">Blocked Numbers</string>
+    <string name="block_number_hint">Enter phone number to block</string>
+    <string name="no_sent_messages">No messages have been sent yet</string>
+</resources>
